@@ -1,0 +1,15 @@
+'use client'
+
+import React from 'react';
+
+export default function Page() {
+  return (
+    // html이 들어가는 부분
+    <>
+      <div className='title'>
+        <h1>코딩 원데이 클레스</h1>
+        <h4>학생: 나영운</h4>
+      </div>
+    </>
+  );
+}

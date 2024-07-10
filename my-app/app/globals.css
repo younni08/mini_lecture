@@ -4,3 +4,31 @@
   width:280px;
   padding:10px;
 }
+.big_box{
+  display: flex;
+  width: 300px;
+  height: 100px;
+  border: 1px solid black;
+}
+.box1{
+  width: 100px;
+  height: 100px;
+  background: red;
+}
+.box2{
+  width: 100px;
+  height: 100px;
+  background: blue;
+}
+.box3{
+  width: 100px;
+  height: 100px;
+  background: green;
+}
+.big_box2{
+  display: flex;
+  width: 300px;
+  height: 100px;
+  border: 1px solid black;
+  background: gray;
+}
